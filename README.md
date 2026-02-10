@@ -95,5 +95,6 @@ Garapenaren inguruko ikerketa egitea gustoko dut
     }
 ```
 
+![Irudia](tzanpionza--kontrako_foto610x342.jpg)
 
 
